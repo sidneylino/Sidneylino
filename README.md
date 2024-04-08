@@ -1,6 +1,6 @@
 # Hi, I'm Sidney Lino
-## - 🌱 I’m currently learning python and c 
-### - analise de dados, web data scraping e automação
+## - 🌱 I’m currently learning javascript, html, css and python
+### - programação web, analise de dados, web data scraping e automação
 
 ## -  📫 contact
 

@@ -1,5 +1,5 @@
 # Hi, I'm Sidney Lino
-## - 🌱 I’m currently learning javascript, html, css and python
+## - 🌱 I’m currently learning Python, Django, HTML, CSS and JS
 ### - programação web, analise de dados, web data scraping e automação
 
 ## -  📫 contact

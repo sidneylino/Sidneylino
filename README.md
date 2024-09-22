@@ -1,6 +1,6 @@
 # Hi, I'm Sidney Lino
-## - 🌱 I’m currently learning Python, Django, HTML, CSS and JS
-### - programação web, analise de dados, web data scraping e automação
+## - 🌱 I’m currently learning angular, node.js, typescript, HTML, CSS and JS.
+### - web developer, rpa-interface testing(robot framework)
 
 ## -  📫 contact
 
